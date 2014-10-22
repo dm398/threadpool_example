@@ -1,9 +1,6 @@
 
 /**
- * Write a description of class ThreadPoolApp here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * DocString goes here
  */
 
 import java.util.concurrent.Executors;
